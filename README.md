@@ -1,7 +1,9 @@
 # ☄️ Hey! I'm İrem.
 💫 About Me:
+
 🌱 I’m currently learning C# ,SQL,.NET,MVC 
-💬 Ask me about anything **iremrakicii53 @gmail.com**
+
+💬 Ask me about anything 
 
 🌐 Socials:
 LinkedIn X
