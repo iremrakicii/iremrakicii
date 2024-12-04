@@ -1,7 +1,7 @@
 # ☄️ Hey! I'm İrem.
 💫 About Me:
 
-🌱 I’m currently learning C# ,SQL,.NET,MVC 
+🌱 I’m currently working C# ,SQL,.NET,MVC,CSS
 
 💬 Ask me about anything 
 
