@@ -1,17 +1,41 @@
-# ☄️ Hey! I'm İrem.
-💫 About Me:
+# ☄️ Hey! I'm İrem  
+💫 **Full Stack Developer**
 
-🌱 I’m currently working C# ,SQL,.NET,MVC,CSS
+🌱 I’m currently working on full stack development using **C#, .NET, SQL, MVC, Entity Framework, HTML, CSS, JavaScript, and React**.  
+I enjoy building clean, responsive, and efficient applications from backend to frontend.
 
-💬 Ask me about anything 
+---
 
-🌐 Socials:
-LinkedIn X
+## 💻 Tech Stack
+- **Languages & Frameworks:** C#, .NET / .NET Core, JavaScript, React  
+- **Database:** SQL, PostgreSQL, Entity Framework  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Tools:** Git, GitHub  
+- **Architecture:** RESTful APIs, MVC
 
-💻 Tech Stack:
-C# .Net Postgres Git GitHub
+---
 
-📫 How to reach me: **iremrakicii53 @gmail.com**
+## 🛠️ What I Do
+- Develop full stack web applications from scratch  
+- Design and integrate REST APIs  
+- Build responsive UIs with React, HTML, and CSS  
+- Work with relational databases and complex queries  
+- Apply clean code principles and modern development practices  
+- Collaborate using Git version control
+
+---
+
+## 💬 Ask Me About
+- Full Stack Development  
+- Backend Logic & API Design  
+- Database Modeling  
+- Clean Code & Best Practices  
+- MVC Architecture  
+
+---
+
+## 📫 Contact Me
+📧 **iremrakicii53@gmail.com**
 
 ---
 
